@@ -78,7 +78,7 @@ st.markdown("""
 <div class="pricing">
     <div class="price">£30 / month</div>
     <div>per practice – unlimited uploads and Cliniko integration</div>
-    <a href="https://buy.stripe.com/YOUR_LINK_HERE" class="cta-button">Start 14‑day free trial →</a>
+    <a href="https://buy.stripe.com/fZueVc35I5R28H7aJA0gw00" class="cta-button">Start 14‑day free trial →</a>
     <div style="margin-top: 1rem; font-size: 0.9rem;">No setup fee. Cancel anytime.</div>
 </div>
 """, unsafe_allow_html=True)
