@@ -97,7 +97,7 @@ st.markdown("""
 ---
 ### Need a demo or custom setup?
 Contact me directly:  
-[LinkedIn](https://www.linkedin.com/in/george-shaker-a856b01b9/) | [Email](mailto:george@example.com)
+[LinkedIn](https://www.linkedin.com/in/george-shaker-a856b01b9/) | [Email](mailto:george.shaker2@nhs.net)
 """, unsafe_allow_html=False)
 
 st.markdown('<div class="footer">© 2026 Blood Results Checker – Built for Cliniko users</div>', unsafe_allow_html=True)
